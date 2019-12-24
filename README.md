@@ -21,7 +21,7 @@ This project has been conducted as a part of Udacity's Data Scientist Nanodegree
 some questions and answer those questions through a blogpost. The questions as following:
 - How does pricing by season and what is the high season in Berlin?
 - How does pricing by neighborhood and what is the most expensive place in Berlin? 
-- Is it possile to make an accurate predictive model for listing price based on machine leraning?
+- Is it possbile to make an accurate predictive model for listing price based on machine leraning?
 
 ## Data Files: <a name="datafiles"/>
 ##### There are three data sets provided with the project:
