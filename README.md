@@ -33,3 +33,5 @@ some questions and answer those questions through a blogpost. The questions as f
 ## Instructions: <a name="instructions"/>
 The data is provided by AirBNB for the Udacity Data Science Nanodegree Program. Please see the jupyter note book file for the detail analysis.
 
+My blog on Medium website is https://medium.com/@joseph4it/what-you-should-know-before-booking-on-airbnb-in-berlin-ec070585a8ab
+
